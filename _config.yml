@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo Silva"
 title_separator          : "-"
 name                     : &name "Hugo Silva"
-description              : &description "Data Scientist & CTO, Data Project Manager @ SUSEP, Co-Founder @ ARTEH, Ph.D. Student @ Nova IMS, "
+description              : &description "Data Scientist & CTO, Data Project Manager @ SUSEP, Co-Founder @ ARTEH, Ph.D. Student @ Nova IMS"
 url                      : https://hugosaisse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hugosaisse/hugosaisse.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hugo Silva"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Data Scientist & CTO, Data Project Manager @ SUSEP, Co-Founder @ ARTEH, Ph.D. Student @ Nova IMS"
+  location         : "Rio Grande do Sul, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "hsilva@novaims.unl.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hugosaisse"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/hugo-mentzingen/"
+  orcid            : "https://orcid.org/0000-0001-8538-1727"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
