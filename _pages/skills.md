@@ -26,3 +26,23 @@ redirect_from:
 ▶️ Redis
 
 ### Libraries & Frameworks
+
+▶️ __PyTorch__
+▶️ __Dash__
+▶️ __Pandas__
+▶️ __Numpy__
+▶️ __Plotly__
+▶️ __Hugging Face__
+▶️ TensorFlow
+▶️ Scrapy
+▶️ MLFlow
+▶️ PySpark
+
+### Cloud Services
+
+▶️ __AWS__
+▶️ GCP
+
+### Tools
+
+▶️ Power BI
