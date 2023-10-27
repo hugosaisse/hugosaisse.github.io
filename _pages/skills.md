@@ -9,4 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-▶️ testing version
+### Programming
+
+▶️ __Python__
+▶️ __SQL__
+▶️ R
+▶️ Bash
+▶️ Git
+
+### Databases
+
+▶️ __SQL Server__
+▶️ __MySQL__, __MariaDB__
+▶️ MongoDB, DynamoDB (AWS)
+▶️ Neo4J
+▶️ Redis
+
+### Libraries & Frameworks
