@@ -12,7 +12,7 @@ I'm Hugo, a Ph.D. Candidate at Nova Information Management School in Lisbon, Por
 
 Professional background
 ======
-I've journeyed through multiple positions such as CTO, Data Scientist and Project Manager along 15+ years in the Insurance industry.
+I've journeyed through multiple positions, such as CTO, Data Scientist, and Project Manager, with 15+ years in the Insurance industry. During this period, I got involved both in hands-on and team management roles, successfully delivering impactful projects. Besides applied research, I have a passion for teaching and have had experience as an adjunct lecturer on Business Cases with Data Science, Data Science for Marketing, and Data Mining Descriptive Methods courses.
 
 Education
 ======
