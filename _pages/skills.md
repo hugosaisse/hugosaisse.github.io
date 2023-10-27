@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-:arrow_right:
-
-testing version
+▶️ testing version
