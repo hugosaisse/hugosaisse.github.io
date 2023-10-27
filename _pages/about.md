@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hugo, a Ph.D. Candidate at Nova Information Management School in Lisbon, Portugal. My Ph.D. project focuses on retrieving and visually presenting legal precedents. I employ state-of-the-art natural language processing (NLP) and machine learning (ML) for this purpose. Currently, I'm investigating the effects of summarization on the quality of embeddings for textual similarity assessment.
+I'm Hugo, a Ph.D. Candidate at Nova Information Management School in Lisbon, Portugal. My Ph.D. project focuses on automating the retrieval and visual presentation of legal precedents. I employ state-of-the-art natural language processing (NLP) and machine learning (ML) for this purpose. Currently, I'm investigating the effects of summarization on the quality of embeddings for textual similarity assessment.
 
 Professional background
 ======
