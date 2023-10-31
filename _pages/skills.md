@@ -11,7 +11,7 @@ redirect_from:
 
 ### Programming
 
-▶️ __Python__
+:black_small_square: __Python__
 ▶️ __SQL__
 ▶️ R
 ▶️ Bash
