@@ -12,8 +12,8 @@ redirect_from:
 ### Programming
 
 ▪️ __Python__
-▶️ __SQL__
-▶️ R
+🔹 __SQL__
+✴️ R
 ▶️ Bash
 ▶️ Git
 
