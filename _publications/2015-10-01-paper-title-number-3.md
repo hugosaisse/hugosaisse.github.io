@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "Automation of Legal Precedents Retrieval: Findings from a Literature Review"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: [/publication/2015-10-01-paper-title-number-3](https://doi.org/10.1155/2023/6660983)
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
