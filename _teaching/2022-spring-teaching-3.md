@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Lisbon, Portugal"
 ---
 
-In this course, students were offered six projects involving different topics in data science, such as language processing, recommendation systems, predictive analysis, and data visualization.
+In this course, students were guided through six projects involving different topics in data science, such as language processing, recommendation systems, predictive analysis, and data visualization.
