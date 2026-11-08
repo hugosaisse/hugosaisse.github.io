@@ -2,7 +2,7 @@
 title: "Textual similarity for legal precedents discovery: Assessing the performance of machine learning techniques in an administrative court"
 collection: publications
 doi: '10.1016/j.jjimei.2024.100247'
-scimago_id: ''
+scimago_id: '21101081610'
 permalink: /publication/2024-11-01-textual-similarity-legal-precedents
 excerpt: 'We compare machine learning and language model techniques for measuring textual similarity between legal cases, using decisions from a Brazilian administrative court, to support the discovery of legal precedents.'
 date: 2024-11-01
