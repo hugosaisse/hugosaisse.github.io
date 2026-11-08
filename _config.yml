@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo (Mentzingen) Silva"
 title_separator          : "-"
 name                     : &name "Hugo Silva"
-description              : &description "Ph.D. Candidate @ Nova IMS, Data Scientist @ SUSEP, Co-Founder @ Arteh"
+description              : &description "GenAI Team Lead at Kaizen Gaming · Former Lead Specialist at Deloitte and CTO at SUSEP · Ph.D. · Invited Professor, NOVA IMS"
 url                      : https://hugosaisse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hugosaisse/hugosaisse.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Hugo Silva"
-  avatar           : "DSC09093.jpeg"
-  bio              : "Ph.D. Candidate @ Nova IMS, Data Scientist @ SUSEP, Co-Founder @ Arteh"
+  avatar           : "profile-linkedin.jpg"
+  bio              : "GenAI Team Lead at Kaizen Gaming · Former Lead Specialist at Deloitte and CTO at SUSEP · Ph.D. · Invited Professor, NOVA IMS"
   location         : "Lisbon, Portugal"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

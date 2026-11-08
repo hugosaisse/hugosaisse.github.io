@@ -8,22 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hugo, a Ph.D. Candidate at Nova Information Management School in Lisbon, Portugal. My Ph.D. project focuses on automating the retrieval and visual presentation of legal precedents. I employ state-of-the-art natural language processing (NLP) and machine learning (ML) for this purpose. Currently, I'm investigating the effects of summarization on the quality of embeddings for textual similarity assessment.
+I build and lead teams that turn AI into products used at scale.
 
-Professional background
+At Kaizen Gaming, the company behind Betano, I lead a team of AI engineers and data scientists building GenAI solutions that increase fun and engagement in our products. These solutions are released worldwide across more than 20 operators, with hundreds of thousands of simultaneous users. Before that, I managed multiple data science and AI engineering teams at Deloitte, and I was CTO of Brazil's Insurance Regulator (SUSEP) for five years.
+
+I hold a Ph.D. in Information Management from NOVA IMS, where I research NLP and GenAI and teach as an Invited Assistant Professor.
+
+Highlights
 ======
-I've journeyed through multiple positions, such as CTO, Data Scientist, and Project Manager, with 15+ years in the Insurance industry. During this period, I got involved both in hands-on and team management roles, successfully delivering impactful projects. Besides applied research, I have a passion for teaching and have had experience as an adjunct lecturer on Business Cases with Data Science, Data Science for Marketing, and Data Mining Descriptive Methods courses.
+- 20 years across software engineering, IT leadership, data, and AI
+- Led teams of up to 32 people and a US$1.4 million annual IT budget
+- Peer-reviewed research on LLMs, legal precedent retrieval, and document classification
 
 Education
 ======
-1. Ph.D. in Information Management, major in Data Science, Nova IMS (2021 - Present)
-2. M.Sc. in Data Science and Advanced Analytics, Nova IMS (2019 - 2022)
-3. B.Sc. in Communications Engineering, IME, (2003 - 2007)
+1. Ph.D. in Information Management, NOVA IMS (2021 - 2025), with distinction and honors
+2. M.Sc. in Data Science and Advanced Analytics, NOVA IMS (2019 - 2022)
+3. B.Sc. in Communications Engineering, IME (2003 - 2007)
 
 Interests
 ======
+- Generative AI products
+- LLM evaluation
+- Context engineering
 - Natural language processing
-- Large Language models
-- Transformers
-- Machine learning
 - Legal tech
