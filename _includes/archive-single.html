@@ -60,5 +60,19 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+
+    {% if post.collection == 'publications' %}
+      {% if post.doi != nil and post.doi != '' or post.scimago_id != nil and post.scimago_id != '' %}
+      <p class="pub-metrics" style="display:flex;align-items:center;gap:1em;flex-wrap:wrap;">
+        {% if post.doi and post.doi != '' %}
+          <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="small_rectangle" data-legend="hover-right"></span>
+        {% endif %}
+        {% if post.scimago_id and post.scimago_id != '' %}
+          <a href="https://www.scimagojr.com/journalsearch.php?q={{ post.scimago_id }}&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img style="border:0;max-width:200px;" src="https://www.scimagojr.com/journal_img.php?id={{ post.scimago_id }}" alt="SCImago Journal &amp; Country Rank"></a>
+        {% endif %}
+      </p>
+      {% endif %}
+    {% endif %}
+
   </article>
 </div>
