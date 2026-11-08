@@ -15,4 +15,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
