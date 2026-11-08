@@ -1,6 +1,8 @@
 ---
 title: "Leveraging large language models for document classification in the banking sector"
 collection: publications
+doi: '10.1007/s41060-026-01077-x'
+scimago_id: ''
 permalink: /publication/2026-04-06-llm-document-classification-banking
 excerpt: 'We propose a zero-shot document classification framework based on large language models, configurable by technical and non-technical users. Developed and validated on a real-world banking dataset, it classifies documents from user-provided label descriptions, without labeled training data.'
 date: 2026-04-06
